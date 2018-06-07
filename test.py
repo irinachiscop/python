@@ -1,0 +1,1 @@
+print("No yo stresso at all")
